@@ -8,8 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleApp1\MyLinkedList.csproj" />
-    <ProjectReference Include="..\MyStackk\MyStackk.csproj" />
+    <ProjectReference Include="..\BinaryTreeProj\MyBinaryTreeProj.csproj" />
+    <ProjectReference Include="..\ConsoleApp1\MyLinkedListProj.csproj" />
+    <ProjectReference Include="..\MyHashTable\MyHashTable.csproj" />
+    <ProjectReference Include="..\MyQueue\MyQueueProj.csproj" />
+    <ProjectReference Include="..\MyStackk\MyStackProj.csproj" />
   </ItemGroup>
 
 </Project>
